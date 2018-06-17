@@ -45,6 +45,12 @@ form {
     width: 250px;
 }
 
+/*Sections*/
+
+#causes {padding-top:50px}
+#health {padding-top:50px}
+#solutions {padding-top:50px} 
+
 /*Buton*/
 
 button {
